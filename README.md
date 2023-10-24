@@ -8,3 +8,5 @@ Repositorio de test para IS
 
   > Texto de ejemplo
   > para mencionar a otra persona
+
+Línea añadida en local
